@@ -1,6 +1,7 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
     "Tags": [ "update", "book" ],
+    "MastodonPostgresConnectionString": "Host=1renner1.uk;Username=postgres;Password=p6stgr3s;Database=mastodon_production",
     "Instances": [ "@binarypool@infosec.exchange", "@jengolbeck@hci.social", "@Bellingcat@mstdn.social", 
         "@bobgourley@defcon.social" ]
 }

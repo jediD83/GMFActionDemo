@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
     "Tags": [ "update", "book" ],
-    "Instances": [ "binarypool@infosec.exchange", "jengolbeck@hci.social", bellingcat@mstdn.social" ]
+    "Instances": [ "@binarypool@infosec.exchange", "@jengolbeck@hci.social", @Bellingcat@mstdn.social" ]
 }

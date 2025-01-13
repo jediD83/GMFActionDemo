@@ -3,6 +3,5 @@
     "Tags": [ "update", "book" ],
     "MastodonPostgresConnectionString": "Host=db;Username=postgres;Password=p6stgr3s;Database=mastodon_production",
     "PinnedTags": true,
-    "Instances": [ "@binarypool@infosec.exchange", "@jengolbeck@hci.social", "@Bellingcat@mstdn.social", 
-        "@bobgourley@defcon.social" ]
+    "Instances": [ "@binarypool@infosec.exchange", "@jengolbeck@hci.social", "@Bellingcat@mstdn.social" ]
 }
